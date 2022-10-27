@@ -9,8 +9,8 @@ public class Programa extends Biudzetas {
 
         Biudzetas b1 = new Biudzetas();
         System.out.println(meniu());
-
     }
+
 
     private static int meniu() {
         System.out.println("        Meniu \n"+
@@ -69,7 +69,4 @@ public class Programa extends Biudzetas {
         }
         return ivestasNr;
     }
-
-
-
 }
