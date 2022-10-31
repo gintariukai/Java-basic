@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="30c7b535-bed6-4bef-9e9c-3c393bbb0cf9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GB.JAVA1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/GB.JAVA1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projektu_katologas/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/projektu_katologas/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +48,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "19",
-    "last_opened_file_path": "C:/Users/Dell/IdeaProjects/java-basic",
+    "last_opened_file_path": "C:/xampp/htdocs/java-basic",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
